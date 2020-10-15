@@ -1,5 +1,5 @@
 # Pendulum
- ## agent.py	, pendulum_env.py	and  RLGlue.py  from OpenAI: necessary "default notebooks" for this project
+ ## agent.py	, pendulum_env.py	and  RLGlue.py  They are necessary "default notebooks" extracted from OpenAI, for this project to function well
  Pendulum environment.The diagram below illustrates the environment.
 
 ![](https://miro.medium.com/max/752/1*J_oEx0kpBpwXoVmRytn6qg.gif)
